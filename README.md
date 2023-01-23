@@ -1,3 +1,9 @@
+# Compute engine
+* Sustained-use discounts
+* Committed-use discounts
+# VPC
+* Custom
+* Default
 # IAM
 * Basic role
 * Predefined role
@@ -13,6 +19,10 @@
 * A resource
 * Can attach IAM policy
 # Cloud identity
+# Cloud sdk
+* gcloud
+* gsutil
+* bq
 # Resource hierarchy
 * Resource
 * Project
