@@ -1,3 +1,10 @@
+# Resource hierarchy
+* Resource
+* Project
+* Folder
+* Organization
+  * Org policy administrator
+  * Project creater
 # Cloud spanner
 * A - Atomicity
 * C - Consistency
