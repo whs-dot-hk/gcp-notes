@@ -34,8 +34,8 @@ Forward rule -> target HTTP proxy -> URL map -> backend service -> backend
 # Project
 * Billing
 * Quota
-** Rate quota
-** Allocation quota
+  * Rate quota
+  * Allocation quota
 # Networks
 * Access policies
 * Global or regional
