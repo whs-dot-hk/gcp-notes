@@ -12,6 +12,7 @@
 # Service account
 * A resource
 * Can attach IAM policy
+# Cloud identity
 # Resource hierarchy
 * Resource
 * Project
