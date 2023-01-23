@@ -9,6 +9,9 @@
 * Editor
 * Viewer
 * Billing admin
+# Service account
+* A resource
+* Can attach IAM policy
 # Resource hierarchy
 * Resource
 * Project
