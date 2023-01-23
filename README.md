@@ -8,3 +8,43 @@
 * Newline
 * Coldline
 * Archive
+# Cloud IAM
+* Google account
+* Service account
+* Google group
+* G suite domain
+* Cloud identity domain
+```sh
+gcloud projects add-iam-policy-binding [project id] --member user:[user id] --role=roles/viewer
+```
+# Access scopes
+```sh
+gcloud compute instances create [instance name] --service-account [service account id] --scopes "https://www.googleapis.com/auth/compute"
+```
+# Managed instance group
+* Single region
+* Health check
+# Load balancer
+* HTTP(S) load balancer
+Forward rule -> target HTTP proxy -> URL map -> backend service -> backend
+# Networking
+* Projects
+* Networks
+* Subnetworks
+# Project
+* Billing
+* Quota
+# Networks
+* Access policies
+* Global or regional
+# Subnetworks
+* RFC1918
+* Regional
+* Auto mode or custom mode
+# Firewalls
+* Block ingress
+* Allow egress
+* `default-allow-internal`
+* `default-allow-ssh`
+* `default-allow-rdp`
+* `default-allow-icmp`
