@@ -1,9 +1,36 @@
+# Bucket
+* Region
+* Multi-region
+* IAM role
+* ACL
+  * Scrope + permission
+# On-premises network
+* IPsec VPN protocol
+  * Cloud router
+  * Border gateway protocol
+* Direct peering
+* Carrier peering
+* Dedicated interconnect
+* Partner interconnect
+# Cloud load balancing
+* Global HTTP(S)
+* SSL proxy
+* TCP proxy
+* Regional
+* Regional internal
 # Compute engine
 * Sustained-use discounts
 * Committed-use discounts
+* Preemptible and spot vms
 # VPC
 * Custom
 * Default
+* Routing table
+* Firewall
+  * Firewall rule
+    * Network tag
+* VPC peering
+* Shared VPC
 # IAM
 * Basic role
 * Predefined role
