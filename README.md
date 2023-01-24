@@ -1,3 +1,14 @@
+# App engine
+* Standard
+* Flexible
+# Cloud SQL
+* Mysql
+* Postgresql
+* SQL server
+# Cloud storage data transfer
+* Online transfer
+* Storage transfer service
+* Transfer appliance
 # Bucket
 * Region
 * Multi-region
@@ -62,11 +73,11 @@
 * C - Consistency
 * I - Isolation
 * D - Durability
-# Cloud storage
-* Standard
-* Newline
-* Coldline
-* Archive
+# Cloud storage class
+* Standard - Hot data
+* Newline - Once per month
+* Coldline - Once every 90 days
+* Archive - Once a year
 # Cloud IAM
 * Google account
 * Service account
