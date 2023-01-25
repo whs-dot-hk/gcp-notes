@@ -1,3 +1,8 @@
+# Goldern signal
+* Latency
+* Traffic
+* Satuation
+* Errors
 # App engine
 * Standard
 * Flexible
